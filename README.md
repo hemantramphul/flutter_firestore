@@ -19,7 +19,9 @@ Implementation in Dart
 
 #### Demo
 
-## <img src="video.gif" />
+![Firebase Firestore with Flutter](https://github.com/hemantramphul/flutter_firestore/assets/7212627/2b123522-9038-4d59-b1f0-0548d8fee36f)
+
+
 
 <h1 align='center'>
   Hi there 👋 I'm Hemant 👨‍💻
