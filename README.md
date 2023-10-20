@@ -19,7 +19,7 @@ Implementation in Dart
 
 #### Demo
 
-## <img src="assets/images/app.png" />
+## <img src="video.gif" />
 
 <h1 align='center'>
   Hi there 👋 I'm Hemant 👨‍💻
